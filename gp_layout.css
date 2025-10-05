@@ -25,7 +25,14 @@
 
 /* Flex Layout Styles */
 
+body{
+   display: flex;
+   flex-flow: row wrap;
+}
 
+section#sheet {
+   flex: ;
+}
 
 
 
