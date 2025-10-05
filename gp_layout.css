@@ -45,6 +45,20 @@ article{
    ============================================
 */
 
+@media only screen and (max-width: 480px){
+   
+   img.panel {
+      width: 100%;
+   }
+
+   nav.horizontal {
+      order: 99;
+   }
+
+   body > footer {
+      
+   }
+}
 
 
 
