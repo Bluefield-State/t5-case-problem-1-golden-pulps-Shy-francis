@@ -46,7 +46,14 @@ article{
 */
 
 nav.horizontal ul{
-   
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   height: 40px;
+}
+
+nav.horizontal ul li {
+   flex: 1 1 auto;
 }
 
 
@@ -56,3 +63,7 @@ nav.horizontal ul{
    ===================================================
 */
 
+img.size1{width: 100%;}
+img.size1{width: 60%;}
+img.size1{width: 40%;}
+img.size1{width: 30%;}
