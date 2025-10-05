@@ -15,16 +15,11 @@
 */
 
 
-
-
 /* Hidden Objects */
 
 nav, footer, article {
    display: none;
 }
-
-
-
 
 /* Comic Book Sheet Styles */
 
@@ -46,7 +41,7 @@ img.size3 {
 }
 
 img.size4 {
-   width: 5in;
+   width: 1.5in;
 }
 
 
