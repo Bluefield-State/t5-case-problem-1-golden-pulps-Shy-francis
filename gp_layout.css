@@ -56,7 +56,7 @@ article{
    }
 
    body > footer {
-      
+      order: 100;
    }
 }
 
@@ -69,3 +69,6 @@ article{
    ===================================================
 */
 
+@media only screen and ({
+   
+}
