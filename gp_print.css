@@ -19,8 +19,9 @@
 
 /* Hidden Objects */
 
-
-
+nav, footer, article {
+   display: none;
+}
 
 
 
@@ -28,7 +29,10 @@
 
 
 
-
+section#sheet {
+   width: 6in;
+   
+}
 
 
 	
